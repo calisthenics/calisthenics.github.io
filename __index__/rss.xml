@@ -3,9 +3,17 @@
 <channel><title>__Index__</title>
     <link>http://localhost:8080</link>
     <description>__index__</description>
-    <lastBuildDate>Wed, 19 Nov 2014 17:52:38 </lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2014 20:56:31 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title>Calisthenics Resources</title>
+        <link>http://localhost:8080/resources/</link>
+        <description></description>
+        <guid>http://localhost:8080/resources/</guid>
+        <pubDate>Wed, 19 Nov 2014 20:25:22 </pubDate>
+    </item>
     
     <item>
         <title>Include source of a file example</title>
