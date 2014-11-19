@@ -3,9 +3,17 @@
 <channel><title>RSS Feed</title>
     <link>http://localhost:8080</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Nov 2014 22:17:49 </lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2014 00:01:53 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title>Pull-Up Bar</title>
+        <link>http://localhost:8080/equipment/pull-up-bar/</link>
+        <description>Strength Training Equipment</description>
+        <guid>http://localhost:8080/equipment/pull-up-bar/</guid>
+        <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
+    </item>
     
     <item>
         <title>Pull-up</title>
