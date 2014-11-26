@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Muscle</title>
+    <link>http://localhost:8080</link>
+    <description>muscle</description>
+    <lastBuildDate>Wed, 26 Nov 2014 19:08:14 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title>Triceps Brachii</title>
+        <link>http://localhost:8080/muscle/triceps/</link>
+        <description></description>
+        <guid>http://localhost:8080/muscle/triceps/</guid>
+        <pubDate>Wed, 19 Nov 2014 20:34:01 </pubDate>
+    </item>
+    
+</channel></rss>

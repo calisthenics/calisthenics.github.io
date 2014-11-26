@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>RSS Feed</title>
+    <link>http://localhost:8080</link>
+    <description></description>
+    <lastBuildDate>Wed, 26 Nov 2014 19:08:14 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title>Dip Bar</title>
+        <link>http://localhost:8080/equipment/dip-bar/</link>
+        <description>Strength Training Equipment</description>
+        <guid>http://localhost:8080/equipment/dip-bar/</guid>
+        <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
+    </item>
+    
+    <item>
+        <title>Pull-Up Bar</title>
+        <link>http://localhost:8080/equipment/pull-up-bar/</link>
+        <description>Strength Training Equipment</description>
+        <guid>http://localhost:8080/equipment/pull-up-bar/</guid>
+        <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
+    </item>
+    
+    <item>
+        <title>Pull-up</title>
+        <link>http://localhost:8080/exercise/pull-up/</link>
+        <description></description>
+        <guid>http://localhost:8080/exercise/pull-up/</guid>
+        <pubDate>Wed, 19 Nov 2014 20:35:30 </pubDate>
+    </item>
+    
+    <item>
+        <title>Triceps Brachii</title>
+        <link>http://localhost:8080/muscle/triceps/</link>
+        <description></description>
+        <guid>http://localhost:8080/muscle/triceps/</guid>
+        <pubDate>Wed, 19 Nov 2014 20:34:01 </pubDate>
+    </item>
+    
+    <item>
+        <title>Triceps Dip</title>
+        <link>http://localhost:8080/exercise/triceps-dip/</link>
+        <description></description>
+        <guid>http://localhost:8080/exercise/triceps-dip/</guid>
+        <pubDate>Wed, 19 Nov 2014 20:34:01 </pubDate>
+    </item>
+    
+    <item>
+        <title>Calisthenics Resources</title>
+        <link>http://localhost:8080/resources/</link>
+        <description></description>
+        <guid>http://localhost:8080/resources/</guid>
+        <pubDate>Wed, 19 Nov 2014 20:25:22 </pubDate>
+    </item>
+    
+</channel></rss>
