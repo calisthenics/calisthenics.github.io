@@ -3,7 +3,7 @@
 <channel><title>Exercise</title>
     <link>http://localhost:8080</link>
     <description>exercise</description>
-    <lastBuildDate>Thu, 20 Nov 2014 00:01:53 </lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2014 18:45:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,10 +16,10 @@
     </item>
     
     <item>
-        <title>Dip</title>
-        <link>http://localhost:8080/exercise/dip/</link>
+        <title>Triceps Dip</title>
+        <link>http://localhost:8080/exercise/triceps-dip/</link>
         <description></description>
-        <guid>http://localhost:8080/exercise/dip/</guid>
+        <guid>http://localhost:8080/exercise/triceps-dip/</guid>
         <pubDate>Wed, 19 Nov 2014 20:34:01 </pubDate>
     </item>
     
