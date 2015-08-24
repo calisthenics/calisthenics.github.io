@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Muscle</title>
-    <link>http://localhost:8080</link>
-    <description>muscle</description>
-    <lastBuildDate>Wed, 26 Nov 2014 21:26:48 </lastBuildDate>
+    <link>http://calisthenics.github.io</link>
+    <description>Muscle</description>
+    <lastBuildDate>Mon, 24 Aug 2015 23:10:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
-        <title>Triceps Brachii</title>
-        <link>http://localhost:8080/muscle/triceps/</link>
-        <description></description>
-        <guid>http://localhost:8080/muscle/triceps/</guid>
+        <title><![CDATA[Triceps Brachii]]></title>
+        <link><![CDATA[http://calisthenics.github.io/muscle/triceps/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/muscle/triceps/]]></guid>
         <pubDate>Wed, 19 Nov 2014 20:34:01 </pubDate>
     </item>
     

@@ -1,58 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>RSS Feed</title>
-    <link>http://localhost:8080</link>
-    <description></description>
-    <lastBuildDate>Wed, 26 Nov 2014 21:26:48 </lastBuildDate>
+    <link>http://calisthenics.github.io</link>
+    <description>RSS Feed</description>
+    <lastBuildDate>Mon, 24 Aug 2015 23:10:04 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
-        <title>Dip Bar</title>
-        <link>http://localhost:8080/equipment/dip-bar/</link>
-        <description>Strength Training Equipment</description>
-        <guid>http://localhost:8080/equipment/dip-bar/</guid>
-        <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
+        <title><![CDATA[Bulgarian Split Squat]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/bulgarian-split-squat/]]></link>
+        <description><![CDATA[The individual places one foot on the ground and the toes of the other foot on a raised surface behind them, with the legs straight.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/bulgarian-split-squat/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
     </item>
     
     <item>
-        <title>Pull-Up Bar</title>
-        <link>http://localhost:8080/equipment/pull-up-bar/</link>
-        <description>Strength Training Equipment</description>
-        <guid>http://localhost:8080/equipment/pull-up-bar/</guid>
-        <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
+        <title><![CDATA[Beat Your Boot]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/beat-your-boot/]]></link>
+        <description><![CDATA[The feet are placed together on the ground and the individual bends at the waist to grab the ankles, with the legs kept straight.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/beat-your-boot/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
     </item>
     
     <item>
-        <title>Pull-up</title>
-        <link>http://localhost:8080/exercise/pull-up/</link>
-        <description></description>
-        <guid>http://localhost:8080/exercise/pull-up/</guid>
-        <pubDate>Wed, 19 Nov 2014 20:35:30 </pubDate>
+        <title><![CDATA[Ham Sandwich]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/ham-sandwich/]]></link>
+        <description><![CDATA[The individual kneels on the ground, with the feet anchored under a solid surface, or held to the ground by another person.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/ham-sandwich/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
     </item>
     
     <item>
-        <title>Triceps Brachii</title>
-        <link>http://localhost:8080/muscle/triceps/</link>
-        <description></description>
-        <guid>http://localhost:8080/muscle/triceps/</guid>
-        <pubDate>Wed, 19 Nov 2014 20:34:01 </pubDate>
+        <title><![CDATA[Bam Bams]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/bam-bams/]]></link>
+        <description><![CDATA[The individual lies in a prone position on a raised, horizontal surface so the legs may project freely beyond the edge of the surface and the toes rest on the ground.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/bam-bams/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
     </item>
     
     <item>
-        <title>Triceps Dip</title>
-        <link>http://localhost:8080/exercise/triceps-dip/</link>
-        <description></description>
-        <guid>http://localhost:8080/exercise/triceps-dip/</guid>
-        <pubDate>Wed, 19 Nov 2014 20:34:01 </pubDate>
+        <title><![CDATA[King Of The Klutz]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/king-of-the-klutz/]]></link>
+        <description><![CDATA[The individual stands on one leg, body held vertically, closes the eyes, then holds the position for as long as possible.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/king-of-the-klutz/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
     </item>
     
     <item>
-        <title>Calisthenics Resources</title>
-        <link>http://localhost:8080/resources/</link>
-        <description></description>
-        <guid>http://localhost:8080/resources/</guid>
-        <pubDate>Wed, 19 Nov 2014 20:25:22 </pubDate>
+        <title><![CDATA[Hip Extension]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/hip-extension/]]></link>
+        <description><![CDATA[The individual starts with the back resting on the ground, and the legs bent at 90 degrees with the feet resting on an elevated surface such as a chair.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/hip-extension/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[One-Legged Romanian Dead Lift]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/one-legged-romanian-dead-lift/]]></link>
+        <description><![CDATA[The individual starts in a standing position with the feet together.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/one-legged-romanian-dead-lift/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Standing Leg Curl]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/standing-leg-curl/]]></link>
+        <description><![CDATA[The individual starts with the feet shoulder-width apart.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/standing-leg-curl/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Standing Side Leg Lift]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/standing-side-leg-lift/]]></link>
+        <description><![CDATA[The individual stands with their feet hip-width apart.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/standing-side-leg-lift/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dirty Dogs]]></title>
+        <link><![CDATA[http://calisthenics.github.io/exercise/dirty-dogs/]]></link>
+        <description><![CDATA[The individual starts in an all-fours position, then lifts one knee off the ground and swings the knee out to the side as far as possible, maintaining the bent knee at a 90-degree angle.]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/exercise/dirty-dogs/]]></guid>
+        <pubDate>Mon, 24 Aug 2015 22:39:52 </pubDate>
     </item>
     
 </channel></rss>
