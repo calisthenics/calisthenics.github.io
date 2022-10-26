@@ -3,23 +3,23 @@
 <channel><title>Equipment</title>
     <link>http://calisthenics.github.io</link>
     <description>Equipment</description>
-    <lastBuildDate>Wed, 27 Sep 2017 00:41:24 </lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2022 22:44:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Dip Bar]]></title>
-        <link><![CDATA[http://calisthenics.github.io/equipment/dip-bar/]]></link>
-        <description><![CDATA[Strength Training Equipment]]></description>
-        <guid><![CDATA[http://calisthenics.github.io/equipment/dip-bar/]]></guid>
-        <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Pull-Up Bar]]></title>
         <link><![CDATA[http://calisthenics.github.io/equipment/pull-up-bar/]]></link>
         <description><![CDATA[Strength Training Equipment]]></description>
         <guid><![CDATA[http://calisthenics.github.io/equipment/pull-up-bar/]]></guid>
+        <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dip Bar]]></title>
+        <link><![CDATA[http://calisthenics.github.io/equipment/dip-bar/]]></link>
+        <description><![CDATA[Strength Training Equipment]]></description>
+        <guid><![CDATA[http://calisthenics.github.io/equipment/dip-bar/]]></guid>
         <pubDate>Wed, 19 Nov 2014 21:24:49 </pubDate>
     </item>
     
